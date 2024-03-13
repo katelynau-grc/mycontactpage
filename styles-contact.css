@@ -108,12 +108,13 @@ html, body {
 	width: 50%;
     margin-bottom: 16px;
 	text-align: center;
+	opacity: 60%;
 }
 
 h1 {
-	font-family: 'anona', sans-serif;
-	font-size: 2em;
-	font-weight: bold;
+	font-family: 'LEMON MILK', sans-serif;
+	font-size: 3em;
+	font-weight: medium;
 	text-shadow: #444;
     margin: 0px auto 10px auto;
     color: #fff;
